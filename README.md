@@ -1,1 +1,2 @@
-These projects involve variety of functions from bare sensing to combination of two or more sensors and some games
+Sensor_Codes: These projects involve a variety of functions from bare sensing to a combination of two or more sensors and some games
+Smart_Home: RentalSync is a smart home automation system for short-term rentals, featuring RFID access management, automated lighting, temperature control, and intruder alerts via SMS. It ensures enhanced security, comfort, and energy efficiency with remote control and sunlight-based ambient lighting.
